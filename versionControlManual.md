@@ -9,8 +9,8 @@
 
 **コミットログからタグを切る方法は2通りある**
 
-- [Githubからタグを切る(最新のコミットから10件までまたがってTagを作成することが可能)](versionControlManual.md#Gtihub)
-- [eclipseからタグを切る(全コミットにまたがってTagを作成することが可能)](versionControlManual.md#eclipse)
+- [Githubからタグを切る](versionControlManual.md#Gtihub)(最新のコミットから10件までまたがってTagを作成することが可能)
+- [eclipseからタグを切る](versionControlManual.md#eclipse)(全コミットにまたがってTagを作成することが可能)
 
 ###<a name="Gtihub">Githubからタグを切る
 
