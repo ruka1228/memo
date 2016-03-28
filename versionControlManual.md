@@ -9,10 +9,10 @@
 
 **コミットログからタグを切る方法は2通りある**
 
-- Githubからタグを切る(最新のコミットから10件までまたがってTagを作成することが可能)
-- eclipseからタグを切る(全コミットにまたがってTagを作成することが可能)
+- [Githubからタグを切る(最新のコミットから10件までまたがってTagを作成することが可能)](versionControlManual.md#Gtihub)
+- [eclipseからタグを切る(全コミットにまたがってTagを作成することが可能)](versionControlManual.md#eclipse)
 
-###Githubからタグを切る
+###<a name="Gtihub">Githubからタグを切る
 
 1.zaimuリポジトリのトップページから「releases」をクリック
 
@@ -34,7 +34,7 @@
 
 ![github](https://cloud.githubusercontent.com/assets/11863596/14071183/38c774fe-f4ec-11e5-867a-c2b55d7da3b5.PNG)
 
-###eclipseからタグを切る
+###<a name="eclipse">eclipseからタグを切る
 
 以下の手順書は、障害発生時に行う手順書である
 
