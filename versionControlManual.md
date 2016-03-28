@@ -14,7 +14,9 @@
 
 　　　　　↓
 
-jboss-ant.batファイルを修正し、earファイルを作成する　　　　　
+jboss-ant.batファイルを修正し、earファイルを作成する　　
+
+- [GitHubからTagを切る](versionControlManual.md#GitHubからTagを切る)
 
 ####コミットログからTagを切る方法を２通りある
 - GitHubからTagを切る(過去10件のコミットまでまたがってTagを作成することが出来る)
