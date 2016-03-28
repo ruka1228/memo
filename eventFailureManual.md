@@ -18,6 +18,6 @@
 
 ![default](https://cloud.githubusercontent.com/assets/11863596/14074698/f008c32c-f50d-11e5-8b8d-080377a74372.PNG)
 
-2.修正し、プッシュする
+4.障害内容を修正し、プッシュする
 
-3.earファイルを編集する
+5.earファイルを編集する
