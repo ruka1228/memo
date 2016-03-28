@@ -64,6 +64,8 @@
 
 8.zaimuの「[Releases](https://github.com/occ-corp/zaimu/releases)」を見てタグが作成されているか確認する
 
+![default](https://cloud.githubusercontent.com/assets/11863596/14072624/35b9cc38-f4fd-11e5-835f-3d75fcc34d2f.PNG)
+
 
 以下の手順書は、障害発生時に行う手順書である
 
