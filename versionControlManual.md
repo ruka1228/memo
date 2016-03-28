@@ -22,7 +22,7 @@ jboss-ant.batファイルを修正し、earファイルを作成する　　
 - GitHubからTagを切る(過去10件のコミットまでまたがってTagを作成することが出来る)
 - eclipseからTagを切る(全コミットにまたがってTagを作成することが出来る)
 
-## GitHubからTagを切る
+##GitHubからTagを切る
 
 1.zaimuリポジトリのトップページに行き「releases」をクリックする
 
