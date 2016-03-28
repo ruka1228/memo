@@ -14,7 +14,7 @@
 
 ###<a name="Github">Githubからタグを作成
 
-1.zaimuリポジトリのトップページから「releases」をクリック
+1.zaimuリポジトリの[トップページ](https://github.com/occ-corp/zaimu)から「releases」をクリック
 
 ![releases](https://cloud.githubusercontent.com/assets/11863596/14070837/cf8def86-f4e6-11e5-892c-7d8ed69185a7.PNG)
 
