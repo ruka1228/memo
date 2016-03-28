@@ -9,10 +9,10 @@
 
 **コミットログからタグを作成する方法は2通りある**
 
-- [Githubからタグを作成](versionControlManual.md#Gtihub)(最新のコミットから10件までまたがってTagを作成することが可能)
-- [eclipseからタグを作成](versionControlManual.md#eclipse)(全コミットにまたがってTagを作成することが可能)
+- [Githubからタグを作成](versionControlManual.md#Github)(最新のコミットから10件までまたがってTagを作成することが可能)
+- [Eclipseからタグを作成](versionControlManual.md#eclipse)(全コミットにまたがってTagを作成することが可能)
 
-###<a name="Gtihub">Githubからタグを作成
+###<a name="Github">Githubからタグを作成
 
 1.zaimuリポジトリのトップページから「releases」をクリック
 
