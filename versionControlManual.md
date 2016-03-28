@@ -2,7 +2,7 @@
 
 ###全体の流れ
 
-コミットログからTagを切る
+[コミットログからTagを切る](versionControlManual.md/#GitHubからTagを切る)
 
 　　　　　↓
 
