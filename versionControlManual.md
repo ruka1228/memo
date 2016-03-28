@@ -5,14 +5,14 @@
 
 ##タグを作成する
 
-- 方法：コミットログからタグを切る
+- 方法：コミットログからタグを作成する
 
-**コミットログからタグを切る方法は2通りある**
+**コミットログからタグを作成する方法は2通りある**
 
-- [Githubからタグを切る](versionControlManual.md#Gtihub)(最新のコミットから10件までまたがってTagを作成することが可能)
-- [eclipseからタグを切る](versionControlManual.md#eclipse)(全コミットにまたがってTagを作成することが可能)
+- [Githubからタグを作成](versionControlManual.md#Gtihub)(最新のコミットから10件までまたがってTagを作成することが可能)
+- [eclipseからタグを作成](versionControlManual.md#eclipse)(全コミットにまたがってTagを作成することが可能)
 
-###<a name="Gtihub">Githubからタグを切る
+###<a name="Gtihub">Githubからタグを作成
 
 1.zaimuリポジトリのトップページから「releases」をクリック
 
@@ -34,7 +34,7 @@
 
 ![github](https://cloud.githubusercontent.com/assets/11863596/14071183/38c774fe-f4ec-11e5-867a-c2b55d7da3b5.PNG)
 
-###<a name="eclipse">eclipseからタグを切る
+###<a name="eclipse">eclipseからタグを作成
 
 1.タグを作成したいブランチに切り替える
 
