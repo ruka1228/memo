@@ -36,6 +36,35 @@
 
 ###<a name="eclipse">eclipseからタグを切る
 
+1.タグを作成したいブランチに切り替える
+
+2.``Git リポジトリー``のパースペクティブを開く
+
+![default](https://cloud.githubusercontent.com/assets/11863596/13942413/8b393ed6-f035-11e5-94fa-ee8c3c818537.PNG)
+
+3.`zaimu` -> `ブランチ` -> `ローカル` -> `タグを作成したいブランチ`で右クリックし、`表示` -> `ヒストリー`をクリック
+
+![default](https://cloud.githubusercontent.com/assets/11863596/13942462/0e409cac-f036-11e5-8341-9fb3f4ad1722.png)
+
+4.「ヒストリー」で、タグを作成したい時点で右クリックし、「タグの作成」をクリック
+
+![default](https://cloud.githubusercontent.com/assets/11863596/14071923/25fed7fa-f4f5-11e5-8578-d083c6a4a973.png)
+
+5.「タグ名」、「タグ・メッセージ」を入力して「タグを作成してプッシュ開始」をクリック
+
+![default](https://cloud.githubusercontent.com/assets/11863596/14072017/64f7d19a-f4f6-11e5-8be0-aee76e429b6f.PNG)
+
+6.プッシュするタグを選択して「次へ」をクリック
+
+![default](https://cloud.githubusercontent.com/assets/11863596/14072213/ddeb67f4-f4f8-11e5-8991-c67d25431329.PNG)
+
+7.「完了」をクリック
+
+![default](https://cloud.githubusercontent.com/assets/11863596/14072523/47b08e64-f4fc-11e5-8c95-c0b90c9354a9.PNG)
+
+8.zaimuの「[Releases](https://github.com/occ-corp/zaimu/releases)」を見てタグが作成されているか確認する
+
+
 以下の手順書は、障害発生時に行う手順書である
 
 ##障害発生時の修正手順
