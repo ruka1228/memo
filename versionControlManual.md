@@ -14,7 +14,10 @@
 
 　　　　　↓
 
-jboss-ant.batファイルを修正し、earファイルを作成する　　
+jboss-ant.batファイルを修正し、earファイルを作成する
+- [事前準備](versionControlManual.md#事前準備)
+
+
 
 - [GitHubからTagを切る](versionControlManual.md#GitHubからTagを切る)
 
@@ -35,3 +38,5 @@ jboss-ant.batファイルを修正し、earファイルを作成する　　
 ## タグからブランチの作成の仕方
 
 ## jboss-ant.batファイルを修正し、earファイルを作成する
+
+## 事前準備
