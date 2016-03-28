@@ -46,7 +46,7 @@
 
 ![default](https://cloud.githubusercontent.com/assets/11863596/13942462/0e409cac-f036-11e5-8341-9fb3f4ad1722.png)
 
-4.「ヒストリー」で、タグを作成したい時点で右クリックし、「タグの作成」をクリック
+4.「ヒストリー」で、タグを作成したい時点を右クリックし、「タグの作成」をクリック
 
 ![default](https://cloud.githubusercontent.com/assets/11863596/14071923/25fed7fa-f4f5-11e5-8578-d083c6a4a973.png)
 
