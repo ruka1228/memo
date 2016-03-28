@@ -1,7 +1,7 @@
 # Tag管理手順書
 
-##[タグを作成する](versionControlManual.md#タグを作成する)
-##[障害発生時の修正手順](versionControlManual.md#障害発生時の修正手順)
+- [タグを作成する](versionControlManual.md#タグを作成する)
+- [障害発生時の修正手順](versionControlManual.md#障害発生時の修正手順)
 
 ##タグを作成する
 
