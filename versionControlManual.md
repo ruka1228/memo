@@ -1,8 +1,5 @@
 # Tag管理手順書
 
-- [タグを作成する](versionControlManual.md#タグを作成する)
-- [障害発生時の修正手順](versionControlManual.md#障害発生時の修正手順)
-
 ##タグを作成する
 
 - 方法：コミットログからタグを作成する
@@ -66,14 +63,3 @@
 
 ![default](https://cloud.githubusercontent.com/assets/11863596/14072624/35b9cc38-f4fd-11e5-835f-3d75fcc34d2f.PNG)
 
-
-以下の手順書は、障害発生時に行う手順書である
-
-##障害発生時の修正手順
-
-
-1.タグからブランチを切る
-
-2.修正し、プッシュする
-
-3.earファイルを編集する
