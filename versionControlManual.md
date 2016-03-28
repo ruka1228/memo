@@ -34,9 +34,3 @@ jboss-ant.batファイルを修正し、earファイルを作成する
 
 ## jboss-ant.batファイルを修正し、earファイルを作成する
 
-## 事前準備
-
-〜略〜
-
-[Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
-
