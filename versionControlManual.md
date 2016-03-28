@@ -45,4 +45,3 @@ jboss-ant.batファイルを修正し、earファイルを作成する
 
 [Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
 
-[pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
