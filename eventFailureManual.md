@@ -9,7 +9,15 @@
 - あらかじめ実装前のタグが作成されていること
   - [タグ作成の仕方](versionControlManual.md)
 
+全体の流れ
+
+1.[実装手順](#実装手順)
+
+2.[earファイル作成手順](#)
+
 ---------
+
+##実装手順
 
 1.Git リポジトリーのパースペクティブを開く
 
@@ -24,6 +32,8 @@
 ![default](https://cloud.githubusercontent.com/assets/11863596/14074698/f008c32c-f50d-11e5-8b8d-080377a74372.PNG)
 
 4.障害内容を修正し、プッシュする
+
+##earファイル作成手順
 
 5.``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を変更する
 
