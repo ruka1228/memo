@@ -25,7 +25,7 @@
 
 4.障害内容を修正し、プッシュする
 
-5.``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を編集する
+5.``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を変更する
 
 - 修正前→ ``git checkout -b master origin/master``
 
