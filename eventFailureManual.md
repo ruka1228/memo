@@ -9,7 +9,7 @@
 - あらかじめ実装前のタグが作成されていること
   - [タグ作成の仕方](versionControlManual.md)
 
-全体の流れ
+##全体の流れ
 
 1.[実装手順](#実装手順)
 
@@ -17,25 +17,25 @@
 
 ---------
 
-##実装手順
+##1.実装手順
 
-1.Git リポジトリーのパースペクティブを開く
+①Git リポジトリーのパースペクティブを開く
 
 ![git](https://cloud.githubusercontent.com/assets/11863596/13942413/8b393ed6-f035-11e5-94fa-ee8c3c818537.PNG)
 
-2.`zaimu` -> `タグ` -> `タグから切りたいブランチ`で右クリックし、`ブランチの作成`をクリック
+②`zaimu` -> `タグ` -> `タグから切りたいブランチ`で右クリックし、`ブランチの作成`をクリック
 
 ![default](https://cloud.githubusercontent.com/assets/11863596/14074542/aee19cb2-f50c-11e5-86c6-099a05691399.png)
 
-3.ブランチ名を入力して「完了」をクリック(ここでは例としてブランチ名をtest-branchとする)
+③ブランチ名を入力して「完了」をクリック(ここでは例としてブランチ名をtest-branchとする)
 
 ![default](https://cloud.githubusercontent.com/assets/11863596/14074698/f008c32c-f50d-11e5-8b8d-080377a74372.PNG)
 
-4.障害内容を修正し、プッシュする
+④障害内容を修正し、プッシュする
 
-##earファイル作成手順
+##2.earファイル作成手順
 
-5.``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を変更する
+①``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を変更する
 
 - 修正前→ ``git checkout -b master origin/master``
 
@@ -43,7 +43,7 @@
 
 **:warning: 注意！緊急障害対応後は``jboss-ant.bat``ファイルを元に戻すのを忘れないようにする**
 
-6.earファイルを作成する
+②earファイルを作成する
 
-7.タグから切ったブランチを``master``にマージする
+③タグから切ったブランチを``master``にマージする
 
