@@ -25,14 +25,15 @@
 
 4.障害内容を修正し、プッシュする
 
-5.zaimu/build/bin/jboss-ant.batを編集する
+5.``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を編集する
 
-```
-・修正前↓
-git checkout -b master origin/master
-```
+- 修正前→ ``git checkout -b master origin/master``
 
-```
-・修正後↓
-git checkout -b test-branch origin/test-branch
-```
+- 修正後→ ``git checkout -b タグから切ったブランチ origin/タグから切ったブランチ``
+
+**:warning: 注意！緊急障害対応後は``jboss-ant.bat``ファイルを元に戻すのを忘れないようにする**
+
+6.earファイルを作成する
+
+
+
