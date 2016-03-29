@@ -27,13 +27,12 @@
 
 5.zaimu/build/bin/jboss-ant.batを編集する
 
-- 修正前↓
 ```
+・修正前↓
 git checkout -b master origin/master
 ```
 
-- 修正後↓
-
 ```
+・修正後↓
 git checkout -b test-branch origin/test-branch
 ```
