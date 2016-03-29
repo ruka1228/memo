@@ -25,4 +25,15 @@
 
 4.障害内容を修正し、プッシュする
 
-5.earファイルを編集する
+5.zaimu/build/bin/jboss-ant.batを編集する
+
+- 修正前↓
+```
+git checkout -b master origin/master
+```
+
+- 修正後↓
+
+```
+git checkout -b test-branch origin/test-branch
+```
