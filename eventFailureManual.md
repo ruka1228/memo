@@ -39,8 +39,6 @@
 
 ④障害内容を修正し、プッシュする
 
-----
-
 ##<a name="earファイル作成手順">2.earファイル作成手順
 
 ①``zaimu/build/bin/jboss-ant.bat``の``git checkout -b master origin/master``が書いてある行を変更する
