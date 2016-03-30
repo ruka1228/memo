@@ -19,8 +19,6 @@
 
 ##<a name="実装手順">1.実装手順
 
----
-
 ①Git リポジトリーのパースペクティブを開く
 
 <img src="https://cloud.githubusercontent.com/assets/11863596/13942413/8b393ed6-f035-11e5-94fa-ee8c3c818537.PNG" width="600px">
