@@ -11,9 +11,9 @@
 
 ##全体の流れ
 
-1.[実装手順](#実装手順)
+[1.実装手順](#実装手順)
 
-2.[earファイル作成手順](#earファイル作成手順)
+[2.earファイル作成手順](#earファイル作成手順)
 
 ---------
 
@@ -21,15 +21,15 @@
 
 ①Git リポジトリーのパースペクティブを開く
 
-![git](https://cloud.githubusercontent.com/assets/11863596/13942413/8b393ed6-f035-11e5-94fa-ee8c3c818537.PNG)
+<img src="https://cloud.githubusercontent.com/assets/11863596/13942413/8b393ed6-f035-11e5-94fa-ee8c3c818537.PNG" width="600px">
 
 ②`zaimu` -> `タグ` -> `タグから切りたいブランチ`で右クリックし、`ブランチの作成`をクリック
 
-![default](https://cloud.githubusercontent.com/assets/11863596/14074542/aee19cb2-f50c-11e5-86c6-099a05691399.png)
+<img src="https://cloud.githubusercontent.com/assets/11863596/14131860/35494f48-f67a-11e5-9265-6caf1a3c666e.png" width="600px">
 
 ③ブランチ名を入力して「完了」をクリック(ここでは例としてブランチ名をtest-branchとする)
 
-![default](https://cloud.githubusercontent.com/assets/11863596/14074698/f008c32c-f50d-11e5-8b8d-080377a74372.PNG)
+<img src="https://cloud.githubusercontent.com/assets/11863596/14074698/f008c32c-f50d-11e5-8b8d-080377a74372.PNG" width="600px">
 
 ④障害内容を修正し、プッシュする
 
@@ -41,7 +41,7 @@
 
 - 修正後→ ``git checkout -b タグから切ったブランチ origin/タグから切ったブランチ``
 
-**:warning: 注意！緊急障害対応後は``jboss-ant.bat``ファイルを元に戻すのを忘れないようにする**
+:warning: 注意！緊急障害対応後は``jboss-ant.bat``ファイルを元に戻すのを忘れないようにする
 
 ②earファイルを作成する
 
