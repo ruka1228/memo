@@ -1,4 +1,6 @@
 # memo
-- 日々のプログラミングで学んだことを形に残す
 
 # test
+
+
+testaaetatg
